@@ -1,8 +1,8 @@
 # Project Name: Equation Evaluator
 
 ## Project Info
-Date: September 2025
-Created by: Lavrenty "Larry" Orlov
+- Date: September 2025
+- Created by: Lavrenty "Larry" Orlov
 
 ## Overview
 This program performs several calculations based on user input including total resistance for three resistors connected in series, the total sales tax of an item, volume of a right rectangular pyramid, total parallel resistance of three resistors connected in series, the encoding of a character based on ASCII values, the distance between two coordinate points, and the solution to a general equation.
